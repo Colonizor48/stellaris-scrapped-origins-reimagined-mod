@@ -13,12 +13,15 @@ origin_purged_but_not_unbroken = {
 			NOT = {
 				value = ethic_gestalt_consciousness
 			}
+			}
+			civics = {
 			NOT = {
 				value = civic_fanatic_purifiers
 		}
+		}
 	}
 
-	description = "insert text here"
+	description = "origin_purged"
 	flags = { custom_start_screen }
 
 	traits = {
