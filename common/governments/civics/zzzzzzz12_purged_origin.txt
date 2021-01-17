@@ -1,4 +1,4 @@
-origin_purged_but_not_unbroken = {
+origin_purged = {
 	is_origin = yes
 	icon = "gfx/interface/icons/origins/unused/origins_purged_but_unbroken.dds"
 	picture = GFX_origin_post_apocalyptic
@@ -7,7 +7,7 @@ origin_purged_but_not_unbroken = {
 	playable = {
 		always = yes
 	}
-
+	starting_colony = pc_nuked
 	possible = {
 		ethics = {
 			NOT = {
@@ -17,11 +17,12 @@ origin_purged_but_not_unbroken = {
 			civics = {
 			NOT = {
 				value = civic_fanatic_purifiers
+				value = civic_ barbaric_despoilers
 		}
 		}
 	}
 
-	description = "origin_purged"
+	description = "origin_tooltip_purged_effects"
 	flags = { custom_start_screen }
 
 	traits = {

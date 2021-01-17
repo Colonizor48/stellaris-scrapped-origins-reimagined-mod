@@ -1,6 +1,6 @@
 1_english:
 
 #purged but unbroken origin description
-origin_purged:0 "Purged but Unbroken"
- origin_purged_desc:0 "This civilisation was almost wipped out by a hostile race before they achived ftl. But they survived in cryo chambers deep underground."
- origin_tooltip_default_effects:0 "Start with a tomb world as your homeworld.   Start with only 20 pops initally. You can find more from events.      An advanced start fanatic purifier race exists somewhere else in the galaxy.  Start with an archeological site on your home planet. Trying to figure out who, or what saved your species from certain destruction."
+    origin_purged:0 "Purged but Unbroken"
+    origin_purged_desc:0 "This civilisation was almost wipped out by a hostile race before they achived ftl. But they survived in cryo chambers deep underground."
+    origin_tooltip_purged_effects:0 "Start with a tomb world as your homeworld.   Start with only 20 pops initally. You can find more from events.      An advanced start fanatic purifier race exists somewhere else in the galaxy.  Start with an archeological site on your home planet. Trying to figure out who, or what saved your species from certain destruction.  Chalenging Origin!"
